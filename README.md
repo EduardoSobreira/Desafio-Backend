@@ -43,9 +43,9 @@ npm start
 O servidor estará em execução em http://localhost:3000 por padrão.
 
 Rotas API
-GET /funcionario/: Retorna todos os funcionario na coleção.
-GET /funcionario/:id: Retorna um funcionario específico pelo ID.
-POST /funcionario/: Cria um novo funcionario.
-PUT /funcionario/:id: Atualiza um funcionario existente pelo ID.
-PATCH /funcionario/:id: Atualiza uma parte do funcionario existente pelo ID.
-DELETE /funcionario/:id: Exclui um funcionario existente pelo ID.
+- GET /funcionario/: Retorna todos os funcionario na coleção.
+- GET /funcionario/:id: Retorna um funcionario específico pelo ID.
+- POST /funcionario/: Cria um novo funcionario.
+- PUT /funcionario/:id: Atualiza um funcionario existente pelo ID.
+- PATCH /funcionario/:id: Atualiza uma parte do funcionario existente pelo ID.
+- DELETE /funcionario/:id: Exclui um funcionario existente pelo ID.
